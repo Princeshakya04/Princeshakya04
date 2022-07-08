@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Princeshakya04
-- 👀 I’m interested in Java,PHP,JavaScript
-- 🌱 I’m currently learning JavaScript,ReactJs and Blockchain
+- 👋 Hi, I’m Prince Shakya
+- 👀 I’m interested in Java, PHP and JavaScript
+- 🌱 I’m currently learning JavaScript, ReactJs and Blockchain
 - 💞️ I’m looking to collaborate on Web Development, Web3 and Blockchain
 - 📫 How to reach me princeshakya04@gmail.com
 
