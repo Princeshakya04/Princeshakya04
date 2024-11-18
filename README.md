@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Shakya
-- 👀 I have 3+ years of experience in Full Stack Development.
-- 🌱 My skills are PHP, HTML5, CSS3, JavaScript, React.js, Node.js, GoLang, Docker and Blockchain
+- 👀 I have 4 years of experience in Full Stack Development.
+- 🌱 My skills are PHP, HTML5, CSS3, JavaScript, React.js, Node.js, GoLang, MySQL and Blockchain
 - 💞️ I’m looking to collaborate on Web Development, Web3 and Blockchain
 - 📫 How to reach me princeshakya04@gmail.com
 
